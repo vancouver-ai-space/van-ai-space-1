@@ -66,3 +66,17 @@ Everything you do earns points toward your Certificate of Completion (and braggi
 1. **Boardgame + Potluck Night (Optional, but one of the best ways to connect):**  
    Hang out with the crew, eat good food, and play some games.  
    **Link:** [Luma Link](https://lu.ma/7edi2eax)
+
+## :speech_balloon: Sunday
+1. **Give Feedback (+35 points):**  
+   Comment on 3–5 posts in the #week-1 Discord channel to support your peers!  
+   **Example:**  
+> “I love your idea! Maybe you could add an AI feature to track progress over time?”  
+> “This is such a cool concept! What if it worked offline too?”
+
+## Let’s Make This Week Count! :rocket:
+
+You’re off to a great start—keep going! If you’re stuck or need help, just ask. Looking forward to all the great things that you will be building. :tada:
+
+## Resources
+- **Monday’s Slides:** [Google Docs Link](https://docs.google.com/presentation/d/1Kd5m0tmd3D4z0kbmgIvtYDJwPXJvbNKCislKqJ5lveA/edit?usp=sharing)
