@@ -21,10 +21,11 @@ Everything you do earns points toward your Certificate of Completion (and braggi
    **Example on Twitter:**   
 > “Excited to start my journey with @VanAISpace to work on my AI idea over the next six weeks! #AI #Innovation”
 
-2. **Set Your Intention (+5 points):**  
+2. **Announce Your Intention & Accomplishments (+5 points):**  
    Post in the #accountability channel.  
    **Example:**  
  > “My intention this week is to come up with an AI idea that solves a real problem and blows people’s minds. :star2:”
+ > “I have finished today's steps! :star2:”
 
 3. **Brainstorm Ideas (+20 points):**  
    Share 2–3 rough ideas in the #project-ideas channel.  
