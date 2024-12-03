@@ -25,6 +25,7 @@ Everything you do earns points toward your Certificate of Completion (and braggi
    Post in the #accountability channel.  
    **Example:**  
  > “My intention this week is to come up with an AI idea that solves a real problem and blows people’s minds. :star2:”
+
  > “I have finished today's steps! :star2:”
 
 3. **Brainstorm Ideas (+20 points):**  
