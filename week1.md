@@ -7,9 +7,9 @@ We’re off to an amazing start. It’s cool to see all of you diving in with en
   - [Google Slides Template](https://docs.google.com/presentation/d/1EZI1ySWCyCMXCi3KaqdMxs5I3ftKpQtLtuGKdctFhhs/edit?usp=sharing)
   - [Canva Template](https://www.canva.com/design/DAGYFTaIziU/WldJKTdZnWYTRYCBUEnTkw/view?utm_content=DAGYFTaIziU&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink&mode=preview)
 
-See below for daily steps you can take this week. 
- - If some steps seem counterintuitive that's okay - trust the process.
- - These are some best practices I acquired over the 10 years of experience working in research labs and industries.
+- See below for daily steps you can take this week. 
+   - If some steps seem counterintuitive that's okay - trust the process.
+   - These are some best practices I acquired over the 10 years of experience working in research labs and industries.
 
 Everything you do earns points toward your Certificate of Completion (and bragging rights :trophy:).  
 - You need **70 points to pass** (out of 100).  
